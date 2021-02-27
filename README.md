@@ -1,6 +1,4 @@
-# Em Estabillo
-
-Hi, I'm Em - a frontend developer currently working on React projects. I'm a huge CSS fan and a UI/UX enthusiast. Previously did some work with Ruby on Rails as well.
+👋 Hi, I'm Em - a frontend developer currently working on React projects. I'm a huge CSS fan and a UI/UX enthusiast. I enjoy building responsive and accessible web projects from modern Sketch/Figma designs.
 
 ![emestabillo](https://github-readme-stats.vercel.app/api?username=emestabillo&count_private=true&hide=contribs&show_icons=true&theme=vue-dark)
 
