@@ -13,10 +13,11 @@
 
 ## 📫 Get in touch
 
-@me on [Twitter](https://twitter.com/emestabillo) if you want to chat about:
+@me on [Twitter](https://twitter.com/emestabillo) if you want to chat about CSS, a11y, web design, or your project from [Frontendmentor.io](https://www.frontendmentor.io)
 
-- **Code**: CSS, a11y, web design, your project from [Frontendmentor.io](https://www.frontendmentor.io)
-- **Others**: baking recipes, your dog/cat, anything that brings good vibes
+My Frontendmentor.io profile: [emestabillo](https://www.frontendmentor.io/profile/emestabillo)
+
+LinkedIn: [emmilie](https://www.linkedin.com/in/emmilie/)
 
 <!--
 **emestabillo/emestabillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
