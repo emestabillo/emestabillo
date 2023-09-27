@@ -9,8 +9,6 @@
 - Ruby on Rails
 
 
-![emestabillo](https://github-readme-stats.vercel.app/api?username=emestabillo&count_private=true&hide=contribs&show_icons=true&theme=vue-dark)
-
 ## 📫 Get in touch
 
 @me on [Twitter](https://twitter.com/emestabillo) if you want to chat about CSS, a11y, web design, or your project from [Frontendmentor.io](https://www.frontendmentor.io)
