@@ -8,7 +8,7 @@
 - Figma / Sketch
 - Ruby on Rails
 
-![emestabillo](https://github-readme-stats-blond-three-67.vercel.app/api?username=emestabillo&count_private=true&hide=contribs&show_icons=true&theme=vue-dark)
+![emestabillo](https://em-github-readme-stats.vercel.app/api?username=emestabillo&count_private=true&hide=contribs&show_icons=true&theme=vue-dark)
 
 ## 📫 Get in touch
 
