@@ -18,6 +18,8 @@ My Frontendmentor.io profile: [emestabillo](https://www.frontendmentor.io/profil
 
 LinkedIn: [emmilie](https://www.linkedin.com/in/emmilie/)
 
+🔭 I’m currently working on [Personal Finance App dashboard](https://github.com/emestabillo/personal-finance-app), which is a full stack app built with Rails, Next.js, and Shadcn
+
 <!--
 **emestabillo/emestabillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
